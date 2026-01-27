@@ -1,0 +1,4 @@
+Customer_ID = 1,
+Customer_Name = 'PoornaChandra',
+Location  = 'Banglore',
+Occupation = 'DataEngineer'
